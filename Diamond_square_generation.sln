@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{50B4D457-8BDA-EF66-887C-BA543121DB12}") = "Diamond_square_generation", "Assembly-CSharp.csproj", "{702D9D34-A882-7108-B7B3-B092BF36189A}"
+EndProject
+Project("{50B4D457-8BDA-EF66-887C-BA543121DB12}") = "Diamond_square_generation", "Assembly-CSharp-Editor.csproj", "{661E86A1-D1E6-5731-5C85-4BE6AD80E6B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702D9D34-A882-7108-B7B3-B092BF36189A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702D9D34-A882-7108-B7B3-B092BF36189A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702D9D34-A882-7108-B7B3-B092BF36189A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702D9D34-A882-7108-B7B3-B092BF36189A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661E86A1-D1E6-5731-5C85-4BE6AD80E6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661E86A1-D1E6-5731-5C85-4BE6AD80E6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661E86A1-D1E6-5731-5C85-4BE6AD80E6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661E86A1-D1E6-5731-5C85-4BE6AD80E6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
